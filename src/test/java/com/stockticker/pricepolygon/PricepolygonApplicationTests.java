@@ -1,10 +1,10 @@
-package com.ticker.price;
+package com.stockticker.pricepolygon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PriceApplicationTests {
+class PricepolygonApplicationTests {
 
 	@Test
 	void contextLoads() {
