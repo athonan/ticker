@@ -11,7 +11,10 @@ Phase 1: Steps
 4. Run jar file after logging into EC2 machine
 5. Test /price endpoint from a browser to lookup ticker
 
+![Stock Ticker System Design Phase 1](https://user-images.githubusercontent.com/109428483/203639803-b72c5ff5-632a-4e4e-8fc4-3acfeccadb62.jpeg)
 
+
+Phase 2: WIP
 
 ![Stock Ticker System Design](https://user-images.githubusercontent.com/109428483/179361918-112f114c-4a50-464f-bb67-0da9b1bbdb25.jpeg)
 
